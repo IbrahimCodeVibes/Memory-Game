@@ -20,11 +20,9 @@ Clone the repo and open `index.html` in your browser:
     cd memory-app
 
 🛠️ Built With
-HTML
 
-CSS
-
-JavaScript
+HTML-CSS-JavaScript
 
 👨‍💻 Author
+
 Made with ❤️ by Ibrahim
